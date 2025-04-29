@@ -1,4 +1,4 @@
-# # Project Title: Risk-Optimized Aircraft Acquisition Strategy for Commercial and Private Aviation Venture
+## Project Title: Risk-Optimized Aircraft Acquisition Strategy for Commercial and Private Aviation Venture
 **Overview**
 We are presented with a business problem in which we are expected to utilize historical information in the aviation industry to clean, explore and perform necessary analysis and provide evidence for decision-making. 
 
